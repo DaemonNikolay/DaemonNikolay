@@ -20,4 +20,5 @@ iOS TeamLead / Senior iOS Developer | Swift / UIKit / SwiftUI
 ## 📫 Контакты
 
 📍 Only Remote
+
 ✈️ Telegram: [@nikolay_apple](https://t.me/nikolay_apple)
