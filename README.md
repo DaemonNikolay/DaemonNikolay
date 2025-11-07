@@ -18,7 +18,9 @@ iOS TeamLead / Senior iOS Developer | Swift / UIKit / SwiftUI
 ## 🛠️ Основной стек
 
 `Swift` • `Objective-C` • `UIKit` • `SwiftUI` • `Combine`
+
 `RIBs` • `MVVM` • `VIPER` • `Tuist`
+
 `Xcode` • `Fastlane` • `GitLab CI/CD` • `Firebase` • `Unit/UI Testing` • `App Store Connect`
 
 ## 📫 Контакты
